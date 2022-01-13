@@ -16,11 +16,11 @@ minimal_mistakes_skin    :  "mint" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Site Title"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+title                    : "Hello World"
+title_separator          : "|"
+subtitle                 : "Version 1.0"
+name                     : "Nari Kim"
+description              : "A petite developer's blog to archive maching learning study & work and communicate with others"
 url                      : "https://nkim505.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
