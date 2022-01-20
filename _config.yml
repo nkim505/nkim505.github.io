@@ -111,9 +111,6 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:nkim505@gmail.com"
-    - label: "Linkedin"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/hellonari/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -126,6 +123,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://www.instagram.com/nannanaree/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/hellonari/"
 
 # Site Footer
 footer:
