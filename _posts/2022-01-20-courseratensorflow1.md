@@ -1,7 +1,8 @@
 ---
 layout: single #post도 가능
-title:  ""Deeplearning.Ai TensorFlow Developer (Course 1)"
+title:  "Deeplearning.Ai TensorFlow Developer (Course 1)"
 ---
+
 ** [알림] **  <br>
 💁‍♀️ 텐서플로우 자격증 취득에 도움이 되는 **코세라** 강의 <br>
 💻 ["Deeplearning.Ai TensorFlow Developer"](https://www.coursera.org/professional-certificates/tensorflow-in-practice?trk_ref=globalnav)를 듣고 강의 내용을 정리하였습니다.<br>
