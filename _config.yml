@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "KIM Nari"
   avatar           : "/assets/images/profile_onion.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Welcome to my Devlog🧅"
+  bio              : "Welcome to my Devlog"
   location         : "South Korea"
   email            : "nkim505@gmail.com"
   links:
