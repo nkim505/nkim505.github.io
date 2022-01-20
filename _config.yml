@@ -96,8 +96,8 @@ social:
 analytics:
   provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
-    anonymize_ip         : true # true, false (default)
+    tracking_id          : "G-LMD5W5RN74"
+    anonymize_ip         : # true, false (default)
 
 
 # Site Author
