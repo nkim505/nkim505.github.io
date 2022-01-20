@@ -104,16 +104,16 @@ analytics:
 author:
   name             : "KIM Nari"
   avatar           : "/assets/images/profile_onion.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Welcome to my Devlog😚"
+  bio              : "Welcome to my Devlog🧅"
   location         : "South Korea"
   email            : "nkim505@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:nkim505@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+    - label: "Linkedin"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/hellonari/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -125,7 +125,7 @@ author:
       url: "https://github.com/nkim505/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/nannanaree/"
+      # url: "https://www.instagram.com/nannanaree/"
 
 # Site Footer
 footer:
