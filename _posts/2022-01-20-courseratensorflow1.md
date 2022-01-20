@@ -1,3 +1,8 @@
+---
+layout: single #post도 가능
+title:  "Coursera | Deeplearning.Ai Course 1: Introduction | 필기노트"
+---
+
 # Week 2.
 ## Lectures
 ```python
