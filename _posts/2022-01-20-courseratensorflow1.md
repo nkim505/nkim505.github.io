@@ -1,7 +1,10 @@
 ---
 layout: single #post도 가능
-title:  "Coursera | Deeplearning.Ai Course 1: Introduction | 필기노트"
+title:  "TensorFlow 강의: Coursera - Deeplearning.Ai (Course 1)"
 ---
+
+💁‍♀️ 텐서플로우 자격증 취득에 도움이 되는 코세라 강의
+💻 "Deeplearning.Ai"를 듣고 강의 내용을 정리하였습니다.
 
 # Week 2.
 ## Lectures
