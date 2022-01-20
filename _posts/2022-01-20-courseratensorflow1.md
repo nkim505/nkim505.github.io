@@ -1,10 +1,12 @@
 ---
 layout: single #post도 가능
-title:  "TensorFlow 강의: Coursera - Deeplearning.Ai (Course 1)"
+title:  ""Deeplearning.Ai TensorFlow Developer (Course 1)"
 ---
-
-💁‍♀️ 텐서플로우 자격증 취득에 도움이 되는 코세라 강의
-💻 "Deeplearning.Ai"를 듣고 강의 내용을 정리하였습니다.
+** [주의] ** 
+💁‍♀️ 텐서플로우 자격증 취득에 도움이 되는 **코세라** 강의
+💻 ["Deeplearning.Ai TensorFlow Developer"](https://www.coursera.org/professional-certificates/tensorflow-in-practice?trk_ref=globalnav)를 듣고 강의 내용을 정리하였습니다.
+🧠 수업을 들으며 동시에 정리한 내용이어서(필기노트 대용), 의식의 흐름이 강하게 개입되었습니다.
+😚 저만의 이해 방법을 풀어 놓아, 강의와 함께 보시는 분께는 작은 도움이 될 수 있을 것 같습니다.
 
 # Week 2.
 ## Lectures
